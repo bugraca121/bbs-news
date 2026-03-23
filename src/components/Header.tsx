@@ -29,7 +29,7 @@ export function Header() {
           <button className="bg-black text-white px-4 py-2 font-bold text-[13px] hover:bg-gray-800 transition-colors">
             Register
           </button>
-          <span className="text-[13px] font-bold text-gray-400 cursor-not-allowed">
+          <span className="text-[13px] font-bold text-gray-400 cursor-default">
             Sign In
           </span>
         </div>
