@@ -43,7 +43,7 @@ export default function Home() {
               </button>
             </div>
           </div>
-          <div className="text-[14px] font-bold text-[#141414]">Tom Bennett</div>
+          <div className="text-[14px] font-bold text-[#141414]">Robert Williams</div>
         </div>
 
         <div className="w-full relative mb-6">
