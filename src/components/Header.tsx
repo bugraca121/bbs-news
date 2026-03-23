@@ -29,9 +29,9 @@ export function Header() {
           <button className="bg-black text-white px-4 py-2 font-bold text-[13px] hover:bg-gray-800 transition-colors">
             Register
           </button>
-          <Link href="/signin" className="hover:underline text-[13px] font-bold">
+          <span className="text-[13px] font-bold text-gray-400 cursor-not-allowed">
             Sign In
-          </Link>
+          </span>
         </div>
       </div>
     </header>
